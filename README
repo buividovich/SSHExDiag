@@ -1,0 +1,3 @@
+This is a code to perform numerical exact diagonalization of a 1D electron-phonon Hamiltonian, inspired by tight-binding models of molecular organic semiconductors. 
+
+"make spectral" compiles the code. The code requires LAPACK/LAPACKE (as implemented, e.g. in OpenBLAS) as well as arpackpp header files.
